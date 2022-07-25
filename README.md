@@ -68,7 +68,7 @@ CUDA_VISIBLE_DEVICES=0 python tools/test_net.py --cfg configs/baselines/vgg16_vo
   --load_ckpt Outputs/vgg16_voc2007/$MODEL_PATH \
   --dataset voc2007trainval
 ```
-***mAP**
+**mAP**
 ```bash
 CUDA_VISIBLE_DEVICES=0 python tools/test_net.py --cfg configs/baselines/vgg16_voc2007.yaml \
   --load_ckpt Outputs/vgg16_voc2007/$model_path \
