@@ -22,7 +22,7 @@ The code will be released soon.
 ## Installation
 1. Clone the RINet repository
 ```bash
-git clone https://github.com/XiaoxFeng/RINet.git
+git clone https://github.com/XiaoxFeng/IENet.git
 ``` 
 2. Install libraries
 ```bash
@@ -35,7 +35,7 @@ sh make.sh
 ```
 4. Download the Dataset and rename it as VOCdevkit
 ```bash
-cd $IENet_ROOT/RINet/data/
+cd $IENet_ROOT/IENet/data/
 wget http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar
 wget http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar
 wget http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCdevkit_18-May-2011.tar
