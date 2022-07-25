@@ -35,7 +35,7 @@ sh make.sh
 ```
 4. Download the Dataset and rename it as VOCdevkit
 ```bash
-cd $IENet_ROOT/IENet/data/
+cd $IENet_ROOT/data/
 wget http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar
 wget http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar
 wget http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCdevkit_18-May-2011.tar
