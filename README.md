@@ -61,6 +61,7 @@ CUDA_VISIBLE_DEVICES=0 python tools/train_net_step.py --dataset voc2007 \
   --cfg configs/baselines/vgg16_voc2007.yaml --bs 1 --nw 4 --iter_size 4
 ```
 **Test** a PCL network. For example, test the VGG 16 network on VOC 2007:
+
 **CorLoc**
 ```bash
 CUDA_VISIBLE_DEVICES=0 python tools/test_net.py --cfg configs/baselines/vgg16_voc2007.yaml \
