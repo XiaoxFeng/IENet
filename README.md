@@ -5,9 +5,7 @@ By Xiaoxu Feng, Xiwen Yao, Hui Shen, Gong Cheng, Junwei Han
 
 ```
 ## Overview
-![Overview](https://github.com/XiaoxFeng/RINet/blob/main/Overview.jpg)
 
-The code will be released soon.
 ## Requirements
 * python == 3.8 <br>
 * Cuda == 11.0 <br>
