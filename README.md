@@ -9,16 +9,16 @@ By Xiaoxu Feng, Xiwen Yao, Hui Shen, Gong Cheng, Junwei Han
 
 The code will be released soon.
 ## Requirements
-* python == 3.6 <br>
-* Cuda == 9.0 <br>
-* Pytorch == 0.4.1 <br>
-* torchvision == 0.2.1 <br>
+* python == 3.8 <br>
+* Cuda == 11.0 <br>
+* Pytorch == 1.7.0 <br>
+* torchvision == 0.8.0 <br>
 * Pillow <br>
 * sklearn <br>
 * opencv <br>
 * scipy <br>
 * cython <br>
-* GPU: GeForce RTX 2080Ti | Tesla V100
+* GPU: GeForce RTX 3090
 ## Installation
 1. Clone the RINet repository
 ```bash
