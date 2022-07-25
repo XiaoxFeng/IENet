@@ -20,7 +20,7 @@ The code will be released soon.
 * cython <br>
 * GPU: GeForce RTX 3090
 ## Installation
-1. Clone the RINet repository
+1. Clone the IENet repository
 ```bash
 git clone https://github.com/XiaoxFeng/IENet.git
 ``` 
