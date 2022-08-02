@@ -1,5 +1,6 @@
 # Learning a Invariant and Equivariant Network for Weakly Supervised Object Detection
 By Xiaoxu Feng, Xiwen Yao, Hui Shen, Gong Cheng, Junwei Han
+We have released the codes of IENet work [here](https://github.com/XiaoxFeng/IENet). It is the extension of RINet and obtains state-of-the-art performance on the PASCAL VOC and COCO!
 ## Citation
 ```bash
 
