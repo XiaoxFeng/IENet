@@ -72,5 +72,6 @@ CUDA_VISIBLE_DEVICES=0 python tools/test_net.py --cfg configs/baselines/vgg16_vo
   --load_ckpt Outputs/vgg16_voc2007/$model_path \
   --dataset voc2007test
 ```
+## Models trained on PASCAL VOC 2007, MS COCO2014, and MS COCO 2017 can be downloaded here:[Google Drive.](https://drive.google.com/drive/folders/1xulStA_PCnd3bppfoKLQUc6OT_Wzbp2p?usp=sharing)
 ## Acknowledgement
 We borrowed code from [PCL](https://github.com/ppengtang/pcl.pytorch), and [Faster-RCNN](https://github.com/jwyang/faster-rcnn.pytorch).
