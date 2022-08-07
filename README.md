@@ -1,4 +1,4 @@
-# Learning a Invariant and Equivariant Network for Weakly Supervised Object Detection
+# Learning an Invariant and Equivariant Network for Weakly Supervised Object Detection
 By Xiaoxu Feng, Xiwen Yao, Hui Shen, Gong Cheng, Junwei Han
 ## Citation
 ```bash
