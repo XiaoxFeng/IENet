@@ -5,7 +5,8 @@ By Xiaoxu Feng, Xiwen Yao, Hui Shen, Gong Cheng, Junwei Han
 
 ```
 ## Overview
-![Overview](https://github.com/XiaoxFeng/IENet/blob/main/Overview.jpg）
+![Overview](https://github.com/XiaoxFeng/IENet/blob/main/Overview.jpg)
+
 ## Requirements
 * python == 3.8 <br>
 * Cuda == 11.0 <br>
