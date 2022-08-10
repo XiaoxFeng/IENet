@@ -7,6 +7,9 @@ By Xiaoxu Feng, Xiwen Yao, Hui Shen, Gong Cheng, Junwei Han
 ## Overview
 ![Overview](https://github.com/XiaoxFeng/IENet/blob/main/Overview.jpg)
 
+## Visualizations
+Qualitative results of the proposed IENet.
+![Visualizations](https://github.com/XiaoxFeng/IENet/blob/main/results.jpg)
 ## Requirements
 * python == 3.8 <br>
 * Cuda == 11.0 <br>
