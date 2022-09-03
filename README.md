@@ -50,7 +50,7 @@ tar xvf VOCtest_06-Nov-2007.tar
 tar xvf VOCdevkit_18-May-2011.tar
 ```
 6. Download pretrained ImageNet weights from [here](https://drive.google.com/drive/folders/0B1_fAEgxdnvJSmF3YUlZcHFqWTQ), and put it in the $IENet_ROOT/data/pretrained_model/
-7. Download selective search proposals from [here](https://drive.google.com/drive/folders/1R4leOIYxP9qHJ2dVQJ4fKv2CoEHeEu41) and put it in the $IENet_ROOT/data/selective_search_data/
+7. Download selective search proposals from [here](https://drive.google.com/drive/folders/1VyB7k8U0eUmP0EafpaDGXKEx3R5NSr6T?usp=sharing) and put it in the $IENet_ROOT/data/selective_search_data/
 8. Create symlinks for the PASCAL VOC dataset
 ```bash
 cd $IENet_ROOT/data
